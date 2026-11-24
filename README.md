@@ -1,3 +1,4 @@
-# 行動記録 プライバシーポリシー
+# 行動記録 プライバシーポリシー・サポート
 
-https://satoshi2110.github.io/kodo-kiroku-privacy-policy/privacy-policy.html
+- プライバシーポリシー: https://satoshi2110.github.io/kodo-kiroku-privacy-policy/privacy-policy.html
+- サポート: https://satoshi2110.github.io/kodo-kiroku-privacy-policy/support.html
